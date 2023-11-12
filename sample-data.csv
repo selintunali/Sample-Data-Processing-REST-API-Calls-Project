@@ -1,0 +1,91 @@
+Date,CompanyID,Ticker,Name,PortfolioId,PortfolioName,PricePerShare,CurrentHoldings
+1/1/23,111230,AAPL US,Apple Inc.,120,SP500,$150.00,1000
+1/2/23,111230,AAPL US,Apple Inc.,120,SP500,$151.00,9000
+1/3/23,111230,AAPL US,Apple Inc.,120,SP500,$152.00,9003
+1/4/23,111230,AAPL US,Apple Inc.,120,SP500,$153.00,9003
+1/5/23,111230,AAPL US,Apple Inc.,120,SP500,$140.00,9003
+1/6/23,111230,AAPL US,Apple Inc.,120,SP500,$145.00,8000
+1/7/23,111230,AAPL US,Apple Inc.,120,SP500,$180.00,8002
+1/8/23,111230,AAPL US,Apple Inc.,120,SP500,$130.00,8050
+1/9/23,111230,AAPL US,Apple Inc.,120,SP500,$140.00,8050
+1/10/23,111230,AAPL US,Apple Inc.,120,SP500,$125.00,8049
+1/1/23,111232,JNJ US,Johnson and Johnson,120,SP500,$150.00,1000
+1/2/23,111232,JNJ US,Johnson and Johnson,120,SP500,$151.00,9000
+1/3/23,111232,JNJ US,Johnson and Johnson,120,SP500,$152.00,9003
+1/4/23,111232,JNJ US,Johnson and Johnson,120,SP500,$153.00,9003
+1/5/23,111232,JNJ US,Johnson and Johnson,120,SP500,$140.00,9003
+1/6/23,111232,JNJ US,Johnson and Johnson,120,SP500,$145.00,8000
+1/7/23,111232,JNJ US,Johnson and Johnson,120,SP500,$180.00,8002
+1/8/23,111232,JNJ US,Johnson and Johnson,120,SP500,$130.00,8050
+1/9/23,111232,JNJ US,Johnson and Johnson,120,SP500,$140.00,8050
+1/10/23,111232,JNJ US,Johnson and Johnson,120,SP500,$125.00,8049
+1/1/23,111236,BA US,Boeing Co,120,SP500,$213.00,10000
+1/2/23,111236,BA US,Boeing Co,120,SP500,$215.00,10000
+1/3/23,111236,BA US,Boeing Co,120,SP500,$220.00,10000
+1/4/23,111236,BA US,Boeing Co,120,SP500,$210.00,10050
+1/5/23,111236,BA US,Boeing Co,120,SP500,$205.00,10051
+1/6/23,111236,BA US,Boeing Co,120,SP500,$210.00,10051
+1/7/23,111236,BA US,Boeing Co,120,SP500,$215.00,9000
+1/8/23,111236,BA US,Boeing Co,120,SP500,$220.00,7000
+1/9/23,111236,BA US,Boeing Co,120,SP500,$210.00,10000
+1/10/23,111236,BA US,Boeing Co,120,SP500,$200.00,20000
+1/1/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$150.00,3000
+1/2/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$151.00,3000
+1/3/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$152.00,3000
+1/4/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$153.00,3000
+1/5/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$140.00,3004
+1/6/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$145.00,3004
+1/7/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$180.00,3050
+1/8/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$130.00,3050
+1/9/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$140.00,2000
+1/10/23,111230,AAPL US,Apple Inc.,235,Technology Leaders,$125.00,2000
+1/1/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$90.00,1000
+1/2/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$90.00,2000
+1/3/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$120.00,3000
+1/4/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$100.00,4000
+1/5/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$80.00,4000
+1/6/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$85.00,4000
+1/7/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$86.00,3500
+1/8/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$120.00,3000
+1/9/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$100.00,3000
+1/10/23,111240,GOOGL,Alphabet Inc,235,Technology Leaders,$110.00,2000
+1/1/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$50.00,10000
+1/2/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$50.00,10000
+1/3/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$54.00,9000
+1/4/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$53.00,8000
+1/5/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$52.00,8000
+1/6/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$51.00,8010
+1/7/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$50.00,8020
+1/8/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$49.00,10000
+1/9/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$60.00,11000
+1/10/23,111242,NVDA US,Nvidia Corp,235,Technology Leaders,$70.00,8000
+1/1/23,211250,VALE,Vale SA,340,Emerging Markets,$15.12,100000
+1/2/23,211250,VALE,Vale SA,340,Emerging Markets,$12.20,100000
+1/3/23,211250,VALE,Vale SA,340,Emerging Markets,$12.22,100000
+1/4/23,211250,VALE,Vale SA,340,Emerging Markets,$12.23,100000
+1/5/23,211250,VALE,Vale SA,340,Emerging Markets,$12.21,100000
+1/6/23,211250,VALE,Vale SA,340,Emerging Markets,$14.44,100000
+1/7/23,211250,VALE,Vale SA,340,Emerging Markets,$13.21,100000
+1/8/23,211250,VALE,Vale SA,340,Emerging Markets,$11.12,100000
+1/9/23,211250,VALE,Vale SA,340,Emerging Markets,$15.02,100000
+1/10/23,211250,VALE,Vale SA,340,Emerging Markets,$13.23,100000
+1/1/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$35.42,200231
+1/2/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$34.56,200231
+1/3/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$32.12,245012
+1/4/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$22.40,200231
+1/5/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$25.60,200231
+1/6/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$54.40,150000
+1/7/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$44.34,150000
+1/8/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$43.23,150000
+1/9/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$45.23,150000
+1/10/23,211546,SGML,Sigma Lithium Corp,340,Emerging Markets,$42.12,150000
+1/1/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 85.00 ,1000
+1/2/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 85.00 ,1000
+1/3/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 85.00 ,1000
+1/4/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/5/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/6/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/7/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/8/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/9/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
+1/10/23,231214,BABA,Alibaba Group Holding Ltd,340,Emerging Markets,€ 86.00 ,10000
