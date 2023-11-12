@@ -90,3 +90,9 @@ POST Request to /api/companies: {'companyID': 211250, 'ticker': 'VALE', 'company
 POST Request to /api/companies: {'companyID': 211546, 'ticker': 'SGML', 'companyName': 'Sigma Lithium Corp'}
 POST Request to /api/companies: {'companyID': 231214, 'ticker': 'BABA', 'companyName': 'Alibaba Group Holding Ltd'}
 ```
+
+## Additional Documentation
+
+- [Testing Strategy](./TESTING.md)
+- [Database Design Considerations](./DATABASE.md)
+- [Execution Frequency Impacts](./EXECUTION_FREQUENCY.md)
